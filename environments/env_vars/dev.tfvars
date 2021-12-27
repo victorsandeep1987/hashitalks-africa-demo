@@ -1,4 +1,4 @@
-aws_account_id="<id>"
+aws_account_id="114712064551"
 aws_region="eu-west-1"
 
 vpc_cidr="10.10.0.0/16"
